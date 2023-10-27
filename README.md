@@ -1,4 +1,4 @@
-# my-first-web-app
+# near-miss-web-app
 A static mini-site that displays data (taken from one of NASA's open APIs) concerning potentially hazardous space objects that threaten our existence on Earth!
 
 # Toolchain
