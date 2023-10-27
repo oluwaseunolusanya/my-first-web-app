@@ -12,6 +12,8 @@ A static mini-site that displays data (taken from one of NASA's open APIs) conce
 
 # Usage
 https://near-misses-deployed-by-oolusanya.netlify.app
+![image](https://github.com/oluwaseunolusanya/my-first-web-app/assets/26019734/47d655b1-dbcd-4fcd-bac4-6367c0a873ad)
+
 
 
 # Credits
